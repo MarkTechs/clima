@@ -77,3 +77,8 @@ input[type=text]:not(.browser-default):focus:not([readonly]) + label {
   text-align: center!important;
   color: #FFF!important;
 }
+
+
+nav .input-field.paislabel label {
+  top: -3em;
+}
